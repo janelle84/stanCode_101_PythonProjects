@@ -50,7 +50,6 @@ def main():
 	print(str(result))
 
 
-# ---- DO NOT EDIT CODE BELOW THIS LINE ---- #
 
 if __name__ == "__main__":
 	main()

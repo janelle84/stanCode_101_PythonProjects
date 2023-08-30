@@ -70,7 +70,6 @@ def main():
             print('Avg (101): ' + str(total_101 / count_101))
 
 
-# ---- DO NOT EDIT CODE BELOW THIS LINE ---- #
 
 if __name__ == '__main__':
     main()
